@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5eb4182f.css",
+    "main.js": "/static/js/main.95540f76.js",
+    "static/media/Gugi-Regular.ttf": "/static/media/Gugi-Regular.e4e242ff3ba08f9fe398.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "index.html": "/index.html",
+    "main.5eb4182f.css.map": "/static/css/main.5eb4182f.css.map",
+    "main.95540f76.js.map": "/static/js/main.95540f76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eb4182f.css",
+    "static/js/main.95540f76.js"
+  ]
+}
