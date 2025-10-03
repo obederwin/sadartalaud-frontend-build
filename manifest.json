@@ -1,0 +1,9 @@
+{
+  "short_name": "SadarTalaud",
+  "name": "Sistem Pengelolaan",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Aplikasi manajemen pengguna",
+  "theme_color": "#000000"
+}

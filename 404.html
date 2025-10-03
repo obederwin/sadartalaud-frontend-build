@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting...</title>
+    <script type="text/javascript">
+      // Redirect ke index.html, React Router 
+      var redirectTo = window.location.pathname;
+      sessionStorage.setItem("redirect", redirectTo);
+      window.location.href = "/";
+    </script>
+  </head>
+  <body>
+    <p>Redirecting...</p>
+  </body>
+</html>
